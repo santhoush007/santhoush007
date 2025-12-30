@@ -11,16 +11,18 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on **[Full stack web development. eg., "MERN stack"]**
-- 🌱 I’m currently learning **[React Native, Next.js]**
-- 👯 I’m looking to collaborate on **Open-source projects and web applications.**
-- 🤔 I’m looking for help with **[an real-time project's that should be helepful for the startup company's ]**
-- 💬 Ask me about **JavaScript, HTML, CSS, React Native, Nodejs**
-- 📫 How to reach me: **[santhoushs007@gmail.com]**
-- 😄 Fun fact: **[- 🧩 I secured **1st place in a puzzle-solving competition** – turns out I can debug life like I debug code.  
-- 🔢 I built my own **Java Calculator App**, and yes... debugging it was harder than solving real math problems.  
-- 🤖 I’ve attended workshops on **AI, IoT, and Quantum Computing**, so I like to say I’m training to be a *future-ready engineer*.  
-- 🎨 I once created a **fire effect in Photoshop**, so technically I know how to set projects on 🔥 (in a good way). ]**
+🔭 I’m currently working on **Full Stack Web Development (C#, ASP.NET Core, SQL Server, React)**
+🌱 I’m currently learning **.NET ecosystem (Web API, Entity Framework), React Native, and Next.js**
+👯 I’m looking to collaborate on **Open-source projects and enterprise web applications.**
+🤔 I’m looking for help with **real-time projects that act as scalable solutions for startups.**
+💬 Ask me about **C#, ASP.NET Core, SQL, JavaScript, HTML, CSS, React**
+📫 How to reach me: **santhoushs007@gmail.com**
+😄 Fun fact:**[- 🧩 I secured 1st place in a puzzle-solving competition – turns out I can debug life like I debug code.
+**- 🏆 I was a Finalist in the Smart India Hackathon – proving my code works under pressure!
+- 🧩 I secured 1st place in a puzzle-solving competition – turns out I can debug life like I debug code.
+- 🔢 I built my own Java Calculator App, and yes... debugging it was harder than solving real math problems.
+- 🤖 I’ve attended workshops on AI, IoT, and Quantum Computing, so I like to say I’m training to be a future-ready engineer.
+- 🎨 I once created a fire effect in Photoshop, so technically I know how to set projects on 🔥 (in a good way).**
 
 ---
 
