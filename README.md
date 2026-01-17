@@ -11,8 +11,8 @@
 
 ### 👨‍💻 About Me:
 
-🔭 I’m currently working on **Full Stack Web Development (C#, ASP.NET Core, SQL Server, React)**
-🌱 I’m currently learning **.NET ecosystem (Web API, Entity Framework), React Native, and Next.js**
+🔭 I’m currently working on **Full Stack Development (C#, ASP.NET Core, SQL Server, React)**
+🌱 I’m currently learning **.NET ecosystem (Web API, Entity Framework), React.js, Bootstrap**
 👯 I’m looking to collaborate on **Open-source projects and enterprise web applications.**
 🤔 I’m looking for help with **real-time projects that act as scalable solutions for startups.**
 💬 Ask me about **C#, ASP.NET Core, SQL, JavaScript, HTML, CSS, React**
